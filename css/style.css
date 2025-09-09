@@ -77,11 +77,11 @@ header {
     top: 3px;
     font-size: 30px;
 }
- .title{
+.title{
     font-weight: bolder;
     font-size: 30px;
     font-family: Arial, sans-serif;
- }
+}
 
 
  .task{
@@ -89,11 +89,11 @@ header {
   vertical-align: middle;     
   font-size: 16px;
   margin: 20px;
- }
+}
 
 
 
- .checkmark {
+.checkmark {
   color: green;
   font-size: 20px;
   font-weight: bold;
@@ -103,8 +103,7 @@ header {
   border-radius: 50%;      
   text-align: center;     
   line-height: 20px;       
-  color: green;         
-  font-size: 14px;       
+         
 }
 
 .check-txt{
@@ -124,11 +123,43 @@ header {
 
 .Q1{  
   display: inline-block;         
-  background-color: #9b71e4;     
+  background-color: #b493eb;     
   color: white;               
   padding: 5px 12px;             
   border-radius: 20px;          
   font-size: 14px;             
   font-weight: bold; 
 
+}
+
+.checkmark-cross{
+  color: red;
+  font-size: 20px;
+  font-weight: bold;
+  width: 20px;             
+  height: 20px;            
+  border: 2px solid red; 
+  border-radius: 50%;      
+  text-align: center;     
+  line-height: 20px;    
+}
+
+.txt-interview{
+  display: inline-block;         
+  background-color: #64c0a8;     
+  color: white;               
+  padding: 5px 12px;             
+  border-radius: 20px;          
+  font-size: 14px;             
+  font-weight: bold; 
+}
+
+.summit{
+  display: inline-block;         
+  background-color:#f29d33 ;     
+  color: white;               
+  padding: 5px 12px;             
+  border-radius: 20px;          
+  font-size: 14px;             
+  font-weight: bold;
 }
