@@ -72,12 +72,12 @@ header {
     
 
 
-#triangolo{
+.triangolo{
     position:relative;
     top: 3px;
     font-size: 30px;
 }
- #new-task{
+ .title{
     font-weight: bolder;
     font-size: 30px;
     font-family: Arial, sans-serif;
@@ -97,7 +97,7 @@ header {
   color: green;
   font-size: 20px;
   font-weight: bold;
-   width: 20px;             
+  width: 20px;             
   height: 20px;            
   border: 2px solid green; 
   border-radius: 50%;      
@@ -113,11 +113,22 @@ header {
 }
 
 .editorial{
-    display: inline-block;         
+  display: inline-block;         
   background-color: #1da1f2;     
   color: white;               
   padding: 5px 12px;             
   border-radius: 20px;          
   font-size: 14px;             
   font-weight: bold;        
+}
+
+.Q1{  
+  display: inline-block;         
+  background-color: #9b71e4;     
+  color: white;               
+  padding: 5px 12px;             
+  border-radius: 20px;          
+  font-size: 14px;             
+  font-weight: bold; 
+
 }
