@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    background-color: lightgray;
+}
+
+
+header{
+    padding-left: 40px;
+    background-color: white;
+}
+
+
+header img{
+    width: 100px;
+    vertical-align: middle;
+}
+
+header strong{
+    font-size: 75px;
+    vertical-align: middle;
+}
