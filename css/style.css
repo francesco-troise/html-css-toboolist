@@ -163,3 +163,24 @@ header {
   font-size: 14px;             
   font-weight: bold;
 }
+
+.homepage{
+  display: inline-block;         
+  background-color: #d863a0 ;     
+  color: white;               
+  padding: 5px 12px;             
+  border-radius: 20px;          
+  font-size: 14px;             
+  font-weight: bold;
+}
+
+.onboard-member{
+    display: inline-block;         
+  background-color: #b0c926 ;     
+  color: white;               
+  padding: 5px 12px;             
+  border-radius: 20px;          
+  font-size: 14px;             
+  font-weight: bold;
+}
+
